@@ -4,7 +4,8 @@ $correctUsername = "user123";
 $correctPassword = "password123";
 
 
-$userUsername =  $_POST["usename"]; 
+$userUsername =  $_POST["username"]; 
+
 $userPassword = $_POST["password"]; 
 
 
