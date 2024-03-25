@@ -1,5 +1,5 @@
 <?php
-$a = 6;
+$a = 6  ;
 switch ($a) {
  case 12:
  case 1:
