@@ -8,7 +8,7 @@ Function factorial($n) {
 }
 
 // Вычисляем факториал числа 10
-$c = 10;
+$c = 1;
 $b = factorial($c);
 
 Echo "Факториал числа $c: $b";
